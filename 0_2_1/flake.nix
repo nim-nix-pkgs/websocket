@@ -9,7 +9,7 @@
   
   inputs.src-websocket-0_2_1.flake = false;
   inputs.src-websocket-0_2_1.owner = "niv";
-  inputs.src-websocket-0_2_1.ref   = "refs/tags/0.2.1";
+  inputs.src-websocket-0_2_1.ref   = "0_2_1";
   inputs.src-websocket-0_2_1.repo  = "websocket.nim";
   inputs.src-websocket-0_2_1.type  = "github";
   
