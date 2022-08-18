@@ -37,10 +37,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-websocket-master": "src-websocket-master"
+        "src-websocket-v0_5_1": "src-websocket-v0_5_1"
       }
     },
-    "src-websocket-master": {
+    "src-websocket-v0_5_1": {
       "flake": false,
       "locked": {
         "lastModified": 1660564112,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "niv",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.5.1",
         "repo": "websocket.nim",
         "type": "github"
       }
